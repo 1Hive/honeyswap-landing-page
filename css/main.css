@@ -60,6 +60,7 @@ p {
   color: #2c3437;
   font-size: 16px;
   font-weight: 500;
+  cursor: not-allowed;
 }
 
 .button:hover {
@@ -161,11 +162,13 @@ p {
   color: #fff;
   font-size: 14px;
   font-weight: 500;
+  cursor: not-allowed;
 }
 
 .nav-link-5:hover {
   background-color: #fff;
   color: #2c3437;
+  
 }
 
 .dropdown {
